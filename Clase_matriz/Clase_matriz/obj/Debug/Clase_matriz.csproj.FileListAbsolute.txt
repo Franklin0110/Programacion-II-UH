@@ -1,0 +1,8 @@
+C:\Users\Covar\source\repos\Clase_matriz\Clase_matriz\obj\Debug\Clase_matriz.csproj.AssemblyReference.cache
+C:\Users\Covar\source\repos\Clase_matriz\Clase_matriz\obj\Debug\Clase_matriz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Covar\source\repos\Clase_matriz\Clase_matriz\obj\Debug\Clase_matriz.csproj.CoreCompileInputs.cache
+C:\Users\Covar\source\repos\Clase_matriz\Clase_matriz\bin\Debug\Clase_matriz.exe.config
+C:\Users\Covar\source\repos\Clase_matriz\Clase_matriz\bin\Debug\Clase_matriz.exe
+C:\Users\Covar\source\repos\Clase_matriz\Clase_matriz\bin\Debug\Clase_matriz.pdb
+C:\Users\Covar\source\repos\Clase_matriz\Clase_matriz\obj\Debug\Clase_matriz.exe
+C:\Users\Covar\source\repos\Clase_matriz\Clase_matriz\obj\Debug\Clase_matriz.pdb
